@@ -1,6 +1,4 @@
-## Hi there 👋
-
-### Hi, I'm Shlokah 👋
+## Hi, I'm Shlokah 👋
 
 Materials Science & Engineering student at the University of Michigan (Business minor @ Ross School of Business) building AI/ML tooling and data pipelines. Currently focused on **LLM fine-tuning, data engineering, and business analytics**.
 
