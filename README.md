@@ -4,7 +4,7 @@ Materials Science & Engineering student at the University of Michigan (Business 
 
 **Focus areas:**
 - 🤖 AI/ML Engineering: SLMs, LLM-partnered structured data extraction
-- 🔧 Data Pipelines — web scraping, PDF conversion workflows (to structured data)
+- 🔧 Data Pipelines: web scraping, PDF conversion workflows (to structured data)
 - 📊 Data & Business Analytics
 
 📫 Reach me on [LinkedIn]((https://www.linkedin.com/in/shlokah-sarkar/)) or shlokahs@umich.edu
